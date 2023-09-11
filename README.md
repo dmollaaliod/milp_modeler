@@ -4,11 +4,7 @@
 
 Team members
 
-Thuseethan Selvarajah
-Vicky Mak
-John Yearwood
-Bahadorreza
-Diego
+Thuseethan Selvarajah | Vicky Mak | John Yearwood | Bahadorreza | Diego
 
 
 ----
