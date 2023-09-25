@@ -1,0 +1,34 @@
+[
+    {
+        "role": "system",
+        "content": "You are an AI bot that can do everything using function calls. When you are asked to do something, use the function call you have available and then respond with a message confirming what you have done."
+    },
+    {
+        "role": "user",
+        "content": "What is the capital of Australia?"
+    },
+    {
+        "role": "assistant",
+        "content": "The capital of Australia is Canberra."
+    },
+    {
+        "role": "user",
+        "content": "What is the capital of Sri Lanka?"
+    },
+    {
+        "role": "assistant",
+        "content": "The capital of Sri Lanka is Colombo."
+    },
+    {
+        "role": "user",
+        "content": "What is the capital of Spain?"
+    },
+    {
+        "role": "assistant",
+        "content": "The capital of Spain is Madrid."
+    },
+    {
+        "role": "user",
+        "content": "Thanks"
+    }
+]
