@@ -6,6 +6,8 @@ Team members
 
 Thuseethan Selvarajah | Vicky Mak | John Yearwood | Bahadorreza | Diego
 
+To run this project, please follow the instructions given below:
+
 
 ----
 
