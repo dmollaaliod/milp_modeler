@@ -8,6 +8,8 @@ Thuseethan Selvarajah | Vicky Mak | John Yearwood | Bahadorreza | Diego
 
 To run this project, please follow the instructions given below:
 
+If you haven't installed Python yet, download and install it from the [official Python website](https://www.python.org/).
+
 
 ----
 
