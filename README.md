@@ -17,14 +17,16 @@ Choose and install any IDE of your preference. Some popular choices include:
 3. Clone the Code
  - Clone this repository to your local machine using the following command:
    _git clone <repository_URL>_
-4. Run the Program
+4. Use the OPEN AI API KEY
+ - Use an OPENAI account and copy it to secrets.toml file
+5. Run the Program
  - Install the packages
    - OpenAI: pip install openai==0.28
    - Streamlit: pip install streamlit
    - LangChain: pip install langchain
  - Navigate to the directory where you cloned the repository and run the main.py file using your preferred IDE or a command line. For example:
    - Sample command: streamlit run /Users/thuseethan/Desktop/milp_modeler/main.py
-5. Enjoy!
+6. Enjoy!
 
 This is the README file for the project.
 
